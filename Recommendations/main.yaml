@@ -5,7 +5,7 @@
 version: 5.4.0.1
 type: common
 authorName: 'Sergey Martynov'
-moduleName: 'Product recommendations'
+moduleName: 'Product recommendations test'
 description: 'Adds the ability to show recommendations on the product page and manage them in the administrative area'
 minorRequiredCoreVersion: 0
 dependsOn: {  }
