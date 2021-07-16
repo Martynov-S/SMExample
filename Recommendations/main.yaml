@@ -1,0 +1,15 @@
+# vim: set ts=2 sw=2 sts=2 et:
+#
+# Metadata
+
+version: 5.4.0.1
+type: common
+authorName: 'Sergey Martynov'
+moduleName: 'Product recommendations'
+description: 'Adds the ability to show recommendations on the product page and manage them in the administrative area'
+minorRequiredCoreVersion: 0
+dependsOn: {  }
+incompatibleWith: {  }
+skins: {  }
+showSettingsForm: false
+canDisable: true
